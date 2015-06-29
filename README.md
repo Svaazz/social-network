@@ -1,2 +1,2 @@
-# social-netowrk
-Username/chat social network
+# social-network
+Username/Chat social network
